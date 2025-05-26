@@ -3,7 +3,7 @@
 
 This project uses machine learning algorithms to detect whether a breast tumor is **benign** or **malignant** based on various diagnostic features. It leverages the **Breast Cancer Wisconsin (Diagnostic) Dataset** from the UCI Machine Learning Repository.
 
-## 📊 Dataset
+# 📊 Dataset
 
 - **Source:** [UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
 - **Instances:** 569
@@ -12,7 +12,7 @@ This project uses machine learning algorithms to detect whether a breast tumor i
   - `M` = Malignant (cancerous)
   - `B` = Benign (non-cancerous)
 
-## 🧠 Algorithms Used
+#🧠 Algorithms Used
 
 - Logistic Regression
 - Support Vector Machine (SVM)
@@ -20,7 +20,7 @@ This project uses machine learning algorithms to detect whether a breast tumor i
 - K-Nearest Neighbors (KNN)
 - Decision Tree
 
-## 📌 Features Used
+# 📌 Features Used
 
 Each cell nucleus has the following 10 characteristics, computed in three forms (mean, standard error, worst):
 
@@ -35,7 +35,7 @@ Each cell nucleus has the following 10 characteristics, computed in three forms 
 - Symmetry
 - Fractal dimension
 
-## 🧪 Model Evaluation Metrics
+# 🧪 Model Evaluation Metrics
 
 - Accuracy
 - Precision
